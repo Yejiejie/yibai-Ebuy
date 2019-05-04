@@ -66,6 +66,8 @@
 }
 .ellipse {
 }
+.image {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -76,6 +78,8 @@
 .icon {
 }
 .line {
+}
+.arrow {
 }
 .link_button {
   color:#169BD5;
@@ -89,10 +93,20 @@
 .checkbox {
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
+._连接线 {
+}
+.sticky_3 {
+  text-align:left;
+}
 .box_2 {
 }
 ._文本段落1 {
   text-align:left;
 }
 .button {
+}
+.flow_shape {
 }
